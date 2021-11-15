@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="348fb7a2-d24b-461a-a325-d8c968f2ad88" name="h" url="http://alshshamil.com/">
+        <fileTransfer host="81.16.31.1882222" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" forceListCommand="true" passiveMode="true" shareSSLContext="true" showHiddenFiles="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

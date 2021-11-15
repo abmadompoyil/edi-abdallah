@@ -1,0 +1,6 @@
+First create a new database and import this file  
+second change name of database on file envirement (edu/.env)
+and now run it 
+
+admin : mojahed@gmail.com
+pass: 123456
